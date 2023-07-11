@@ -1,0 +1,108 @@
+body {
+  margin-left: 0; 
+  min-height: 200vh;
+  background-color: rgb(250, 119, 232);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#Formulario{
+  width: 300px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  border-style: dotted;
+  align-items: center;
+  
+}
+#Topo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#antes{
+  color: aqua;
+  background-color: aqua;
+
+}
+#menu{
+  margin-top: 0%;
+  margin-right: 60%;
+  margin-left: 35%;
+  background-color: aqua;
+  border-style: inset;
+  
+}
+#cabeça{
+  width: 300px;
+  height: 100px;
+  margin: 0% 250px 0px 260px;
+  margin: center;
+  border-style: double;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+#Imagem{
+  width: 300px;
+  margin-left: 32%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  border-style: outset;
+}
+#Ingre{
+  margin-left: 0%;
+}
+#cli{
+ 
+  border-style: double;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;;
+
+}
+
+#card{
+  background-color: aqua;
+}
+#fim{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-bottom: 2%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-button {
+  color: black;
+  width: 50;
+}
